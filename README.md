@@ -1,4 +1,19 @@
 # NodeJS-Project
+## 项目说明
+#### 该项目的功能
++ 登录、注册
++ 查看详情页
++ 写留言
++ 发布留言
++ 修改、删除留言
++ 上传文件
+#### 项目用到的技术
++ express框架
++ art-template模板引擎
++ uikit框架
++ ajax数据交互
++ mongodb数据库
++ 用session保持用户登录
 
 ### 项目使用express框架
 + `npm install express`
